@@ -52,7 +52,8 @@ Création d'une **MarketPlace** fonctionnelle où :
   - Conception du schéma de la base de données (tables : utilisateurs, annonces, messages, catégories).
   - Préparation de la connexion à la base de données avec PDO.
 - **Frontend :**
-  - Réalisation des wireframes en utilisant des outils comme Figma ou des croquis papier.
+  - Réalisation des wireframes en utilisant des outils comme Figma [Voir fichier](figma_bootstrap.md)
+ ou des croquis papier.
   - Mise en place de la structure HTML/CSS de base (header, footer, etc.).
 
 ---
